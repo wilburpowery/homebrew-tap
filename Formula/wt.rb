@@ -1,8 +1,8 @@
 class Wt < Formula
   desc "Instant Laravel worktrees with Herd: branch, cloned DB, TLS site in one command"
   homepage "https://github.com/wilburpowery/wt"
-  url "https://github.com/wilburpowery/wt/archive/refs/tags/v0.3.0.tar.gz"
-  sha256 "073e81d46497f1f39f2e5ecc0d276a2fb05a0503b0a3ea5a38ca003970ade94b"
+  url "https://github.com/wilburpowery/wt/archive/refs/tags/v0.3.1.tar.gz"
+  sha256 "eaa24a7af9a69ac9a810607df48457822d56014ddf4887adab253ff265ee7578"
   license "MIT"
   head "https://github.com/wilburpowery/wt.git", branch: "main"
 
